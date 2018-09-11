@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1f245b33953a9a54dbf28e85ed424c9b
+timeCreated: 1485466516
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Journal SansSerif
+  fontNames:
+  - Journal SansSerif
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

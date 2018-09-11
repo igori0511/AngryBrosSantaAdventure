@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 9f804e33260976c48a3cf081d8a41653
+timeCreated: 1484479647
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: boy_boss_shootingxhdpi_0
+    21300002: boy_boss_shootingxhdpi_1
+    21300004: boy_boss_shootingxhdpi_2
+    21300006: boy_boss_shootingxhdpi_3
+    21300008: boy_boss_shootingxhdpi_4
+    21300010: boy_boss_shootingxhdpi_5
+    21300012: boy_boss_shootingxhdpi_6
+    21300014: boy_boss_shootingxhdpi_7
+    21300016: boy_boss_shootingxhdpi_8
+    21300018: boy_boss_shootingxhdpi_9
+    21300020: boy_boss_shootingxhdpi_10
+    21300022: boy_boss_shootingxhdpi_11
+    21300024: boy_boss_shootingxhdpi_12
+    21300026: boy_boss_shootingxhdpi_13
+    21300028: boy_boss_shootingxhdpi_14
+    21300030: boy_boss_shootingxhdpi_15
+    21300032: boy_boss_shootingxhdpi_16
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boy_boss_shootingxhdpi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 291
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boy_boss_shootingxhdpi_1
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 75
+        width: 298
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boy_boss_shootingxhdpi_2
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 67
+        width: 295
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boy_boss_shootingxhdpi_3
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 75
+        width: 297
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boy_boss_shootingxhdpi_4
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 68
+        width: 295
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boy_boss_shootingxhdpi_5
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 78
+        width: 295
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boy_boss_shootingxhdpi_6
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 70
+        width: 295
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boy_boss_shootingxhdpi_7
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 81
+        width: 295
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boy_boss_shootingxhdpi_8
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 73
+        width: 295
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boy_boss_shootingxhdpi_9
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 79
+        width: 295
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boy_boss_shootingxhdpi_10
+      rect:
+        serializedVersion: 2
+        x: 3603
+        y: 72
+        width: 295
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boy_boss_shootingxhdpi_11
+      rect:
+        serializedVersion: 2
+        x: 3979
+        y: 82
+        width: 295
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boy_boss_shootingxhdpi_12
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 73
+        width: 295
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boy_boss_shootingxhdpi_13
+      rect:
+        serializedVersion: 2
+        x: 4731
+        y: 81
+        width: 295
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boy_boss_shootingxhdpi_14
+      rect:
+        serializedVersion: 2
+        x: 5101
+        y: 73
+        width: 295
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boy_boss_shootingxhdpi_15
+      rect:
+        serializedVersion: 2
+        x: 5462
+        y: 76
+        width: 298
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boy_boss_shootingxhdpi_16
+      rect:
+        serializedVersion: 2
+        x: 5817
+        y: 72
+        width: 294
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

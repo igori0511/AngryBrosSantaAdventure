@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: fa2bbefb6a2da584abe99416e3ee5b53
+timeCreated: 1485015422
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: nuclear explosionxhdpi_0
+    21300002: nuclear explosionxhdpi_1
+    21300004: nuclear explosionxhdpi_2
+    21300006: nuclear explosionxhdpi_4
+    21300008: nuclear explosionxhdpi_5
+    21300010: nuclear explosionxhdpi_10
+    21300012: nuclear explosionxhdpi_11
+    21300014: nuclear explosionxhdpi_12
+    21300016: nuclear explosionxhdpi_14
+    21300018: nuclear explosionxhdpi_17
+    21300020: nuclear explosionxhdpi_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nuclear explosionxhdpi_0
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 0
+        width: 713
+        height: 918
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nuclear explosionxhdpi_1
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 0
+        width: 985
+        height: 1294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nuclear explosionxhdpi_2
+      rect:
+        serializedVersion: 2
+        x: 4678
+        y: 0
+        width: 1371
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nuclear explosionxhdpi_4
+      rect:
+        serializedVersion: 2
+        x: 7599
+        y: 0
+        width: 354
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nuclear explosionxhdpi_5
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 0
+        width: 528
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nuclear explosionxhdpi_10
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 0
+        width: 273
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nuclear explosionxhdpi_11
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 0
+        width: 306
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nuclear explosionxhdpi_12
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 0
+        width: 398
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nuclear explosionxhdpi_14
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 0
+        width: 872
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nuclear explosionxhdpi_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 396
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nuclear explosionxhdpi_23
+      rect:
+        serializedVersion: 2
+        x: 8323
+        y: 0
+        width: 157
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
